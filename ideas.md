@@ -1,8 +1,9 @@
 # Webrtc game ideas
 
 * Grid of puzzles for home base
-* Buy upgrades (puzzles, walls, notifications for when you're away)
-* Offensive upgrades (stealth, better puzzle cracking)
+* Upgrades
+  - defensive (puzzles, walls, notifications for when you're away)
+  - offensive (stealth, better puzzle cracking)
 * While you're "home" you can buy upgrades, see what's going on
 * Connect through other nodes "hops" (if a node drops, you snap back to the last available host?)
   - penalty for disconnecting?
